@@ -1,0 +1,9 @@
+{
+  "short_name": "WC2026",
+  "name": "WC2026 予想バトル",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#080C18",
+  "theme_color": "#080C18",
+  "orientation": "portrait"
+}
